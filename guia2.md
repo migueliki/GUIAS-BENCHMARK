@@ -18,7 +18,7 @@
 2. Seleccionar componentes adicionales (recomendado HWMonitor para sensores)
 3. Completar la instalación guiada
 
-![Pantalla de descarga OCCT](https://www.ocbase.com/images/occt-download-page.png)
+![Pantalla de descarga OCCT](https://tse3.mm.bing.net/th?id=OIP.aOVhxgHwuCbN77XbaPg3DAAAAA&pid=Api&P=0&h=180)
 
 ## 🛠 Uso Básico
 ### Configurar prueba de estrés:
@@ -47,7 +47,7 @@
   - Mensaje "Errors detected" = sistema inestable
   - Warnings por temperaturas altas (>90°C CPU / >95°C GPU)
 
-![Interfaz de OCCT en funcionamiento](https://www.ocbase.com/images/occt-main-screen.png)
+![Interfaz de OCCT en funcionamiento](https://tse3.mm.bing.net/th?id=OIP.I0Ktv-zJg8PVBYGVzk8N8gHaFC&pid=Api&P=0&h=180)
 
 > ⚠️ **Advertencia importante**: 
 > - No ejecutar pruebas prolongadas en laptops sin refrigeración adecuada

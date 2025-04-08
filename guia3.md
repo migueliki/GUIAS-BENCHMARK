@@ -49,7 +49,7 @@
     - GPU media gama: 80-120 FPS
     - GPU alta gama: 200+ FPS
 
-![Resultados típicos en Cinebench](https://www.maxon.net/wp-content/uploads/2022/03/cinebench-result-screen.png)
+![Resultados típicos en Cinebench](https://www.overclockers.ua/news/software/123970-cinebench-r20-1s.jpg)
 
 > 💡 **Consejos profesionales**:
 > - Cierra todas las aplicaciones antes de ejecutar

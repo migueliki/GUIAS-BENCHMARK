@@ -1,5 +1,7 @@
 # 1. CPU-Z
 
+![Instalador de CPU-Z](https://tse2.mm.bing.net/th?id=OIP.yIdA0D7ak1YXNTJyEohgfgHaHa&pid=Api&P=0&h=180)
+
 ## 📌 Introducción
 **CPU-Z** es una herramienta gratuita que muestra información detallada del hardware:
 - Procesador (CPU), memoria RAM, placa madre y GPU
@@ -15,6 +17,9 @@
 3. (Opcional) Usar versión portable descomprimiendo el ZIP
 
 ## 🛠 Uso Básico
+
+![Instalador de CPU-Z](https://tse1.mm.bing.net/th?id=OIP.nEl8bgiGaqwGcC6nxPl1egHaEK&pid=Api&P=0&h=180)
+
 ### Pestañas principales:
 - **CPU**: 
   - Modelo exacto del procesador
@@ -34,6 +39,9 @@
   - Memoria dedicada
 
 ### Interpretación de datos:
+
+![Instalador de CPU-Z](https://tse3.mm.bing.net/th?id=OIP.El6E1fGmBkLs1tW5G67pMQHaDs&pid=Api&P=0&h=180)
+
 1. En pestaña **CPU**:
    - Comparar "Core Speed" con las especificaciones oficiales del fabricante
    - Verificar que "Cores" y "Threads" coincidan con lo esperado
