@@ -1,5 +1,6 @@
 # 4. MSI Afterburner
 
+
 ## 📌 Introducción
 **MSI Afterburner** es la herramienta definitiva para control de GPU:
 - Ajustes avanzados de overclocking para tarjetas gráficas
@@ -44,16 +45,7 @@
 3. Si no hay crashes, continuar aumentando
 4. Límite recomendado: +100-150MHz (depende de GPU)
 
-![Interfaz principal de MSI Afterburner](https://www.msi.com/images/afterburner/afterburner-ui.png)
-
-## 🔍 Tabla Comparativa de Herramientas
-
-| Herramienta       | Uso Principal                   | Instalación Requerida | Versión Portable |
-|-------------------|---------------------------------|-----------------------|------------------|
-| **CPU-Z**         | Información de hardware        | Opcional              | Sí               |
-| **OCCT**          | Pruebas de estrés              | Sí                    | No               |
-| **Cinebench**     | Benchmark de rendimiento       | No                    | Sí               |
-| **MSI Afterburner**| Overclocking GPU              | Sí                    | No               |
+![Interfaz principal de MSI Afterburner](https://tse2.mm.bing.net/th?id=OIP.fgCtWcMOEo8mA5bXRvRnLgHaEK&pid=Api&P=0&h=180)
 
 > 🚀 **Consejo Avanzado**: 
 > - Usa el "Scan" automático para encontrar límites seguros de overclock
